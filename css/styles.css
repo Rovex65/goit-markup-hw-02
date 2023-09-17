@@ -73,6 +73,7 @@ ul {
   font-size: 56px;
   text-align: center;
   line-height: 1.07;
+  letter-spacing: 0.02em;
 }
 .main-button {
   background-color: #4d5ae5;
