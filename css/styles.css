@@ -16,6 +16,7 @@ h3 {
   font-weight: 500;
   line-height: 1.2;
   font-size: 20px;
+  letter-spacing: 0.02em;
 }
 
 ul {
@@ -36,7 +37,7 @@ ul {
   text-decoration: none;
   text-transform: uppercase;
 }
-.logo span {
+.header-logo {
   color: #2e2f42;
 }
 
@@ -80,6 +81,8 @@ ul {
   cursor: pointer;
   font-family: inherit;
   letter-spacing: 0.04em;
+  line-height: 1.5;
+  font-size: 16px;
 }
 .main-button:hover,
 .main-button:focus {
@@ -96,6 +99,10 @@ ul {
 }
 
 .page-footer > .logo {
+  color: #4d5ae5;
+}
+
+.footer-logo {
   color: #f4f4fd;
 }
 
@@ -104,6 +111,7 @@ ul {
   line-height: 1.11;
   text-align: center;
   text-transform: capitalize;
+  letter-spacing: 0.02em;
 }
 
 .card {
